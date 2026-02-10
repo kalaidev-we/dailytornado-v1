@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">dailytornado</string>
+    <string name="title_activity_main">dailytornado</string>
+    <string name="package_name">com.kalai.dailytornado</string>
+    <string name="custom_url_scheme">com.kalai.dailytornado</string>
+</resources>

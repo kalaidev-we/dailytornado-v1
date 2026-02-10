@@ -1,0 +1,22 @@
+{
+  "name": "Dailytornado",
+  "short_name": "Dailytornado",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "description": "A sleek, dark-mode-only habit tracker.",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/616/616490.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/616/616490.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

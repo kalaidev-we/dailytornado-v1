@@ -1,0 +1,7 @@
+{
+  "name": "Dailytornado",
+  "description": "A sleek, dark-mode-only habit tracker that uses AI to generate personalized motivation for your tasks. Track streaks, view analytics, and crush your goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
